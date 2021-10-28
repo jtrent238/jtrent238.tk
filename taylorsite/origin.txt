@@ -1,0 +1,264 @@
+Uri: http://taylorpatt3366.weebly.com/
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\index.htm
+Content Type: text/html
+
+Uri: http://taylorpatt3366.weebly.com/uploads/1/3/4/1/134172875/background-images/1661566247.png
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\uploads\1\3\4\1\134172875\background-images\1661566247.png
+Content Type: image/png
+
+Uri: http://www.weebly.com/uploads/b/134172875-292425229880797862/20210110_151604_1__966.jpg
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\uploads\b\134172875-292425229880797862\20210110_151604_1__966.jpg
+Content Type: image/jpeg
+
+Uri: http://cdn2.editmysite.com/images/util/videojs/play-icon.png?1610479848
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\images\util\videojs\play-icon.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/util/videojs/@2x/play-icon.png?1610479848
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\images\util\videojs\@2x\play-icon.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/fonts/SQ_Market/sqmarket-medium.woff2
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\fonts\SQ_Market\sqmarket-medium.bin
+Content Type: application/octet-stream
+
+Uri: http://cdn2.editmysite.com/fonts/SQ_Market/sqmarket-medium.woff
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\fonts\SQ_Market\sqmarket-medium.woff
+Content Type: application/font-woff
+
+Uri: http://cdn2.editmysite.com/css/sites.css?buildTime=1610479848
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\css\sites.css
+Content Type: text/css
+
+Uri: http://cdn2.editmysite.com/css/old/fancybox.css?1610479848
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\css\old\fancybox.css
+Content Type: text/css
+
+Uri: http://cdn2.editmysite.com/css/social-icons.css?buildtime=1610479848
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\css\social-icons.css
+Content Type: text/css
+
+Uri: http://taylorpatt3366.weebly.com/files/main_style.css?1610560291
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\files\main_style.css
+Content Type: text/css
+
+Uri: http://fonts.googleapis.com/css?family=Raleway:400,300,200,700&subset=latin,latin-ext
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\css.css
+Content Type: text/css
+
+Uri: http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&subset=latin,latin-ext
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\css-1.css
+Content Type: text/css
+
+Uri: http://fonts.googleapis.com/css?family=Libre+Franklin:400,300,300italic,200,200italic,700,400italic,700italic&subset=latin,latin-ext
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\css-2.css
+Content Type: text/css
+
+Uri: http://fonts.googleapis.com/css?family=Glegoo:400,700&subset=latin,latin-ext
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\css-3.css
+Content Type: text/css
+
+Uri: http://taylorpatt3366.weebly.com/about-me.html
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\about-me.html
+Content Type: text/html
+
+Uri: http://taylorpatt3366.weebly.com/audio.html
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\audio.html
+Content Type: text/html
+
+Uri: http://taylorpatt3366.weebly.com/graphics.html
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\graphics.html
+Content Type: text/html
+
+Uri: http://taylorpatt3366.weebly.com/video.html
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\video.html
+Content Type: text/html
+
+Uri: http://taylorpatt3366.weebly.com/gdpr/gdprscript.js?buildTime=1610564427&hasRemindMe=true&stealth=false
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\gdpr\gdprscript.js
+Content Type: application/javascript
+
+Uri: http://taylorpatt3366.weebly.com/files/templateArtifacts.js?1610560291
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\files\templateArtifacts.js
+Content Type: application/x-javascript
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\ajax\libs\jquery\1.8.3\jquery.min.js
+Content Type: text/javascript
+
+Uri: http://cdn2.editmysite.com/js/lang/en/stl.js?buildTime=1610479848&
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\js\lang\en\stl.js
+Content Type: application/x-javascript
+
+Uri: http://cdn2.editmysite.com/js/site/main.js?buildTime=1610479848
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\js\site\main.js
+Content Type: application/x-javascript
+
+Uri: http://cdn2.editmysite.com/images/site/footer/footer-toast-published-image-1.png
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\images\site\footer\footer-toast-published-image-1.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/js/site/footerSignup.js?buildTime=1610564427
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\js\site\footerSignup.js
+Content Type: application/x-javascript
+
+Uri: http://taylorpatt3366.weebly.com/files/theme/plugins.js?1531150540
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\files\theme\plugins.js
+Content Type: application/javascript
+
+Uri: http://taylorpatt3366.weebly.com/files/theme/custom.js?1531150540
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\files\theme\custom.js
+Content Type: application/javascript
+
+Uri: http://taylorpatt3366.weebly.com/files/theme/mobile.js?1531150540
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\files\theme\mobile.js
+Content Type: application/javascript
+
+Uri: http://cdn2.editmysite.com/js/site/main-customer-accounts-site.js?buildTime=1610479848
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\js\site\main-customer-accounts-site.js
+Content Type: application/x-javascript
+
+Uri: http://taylorpatt3366.weebly.com/files/theme/images/default_header.jpg?1610560291
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\files\theme\images\default_header.jpg
+Content Type: image/jpeg
+
+Uri: http://taylorpatt3366.weebly.com/files/theme/images/downarrow.png?1610560291
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\files\theme\images\downarrow.png
+Content Type: image/png
+
+Uri: http://taylorpatt3366.weebly.com/files/theme/images/default_icons.png?1610560291
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\files\theme\images\default_icons.png
+Content Type: image/png
+
+Uri: http://taylorpatt3366.weebly.com/files/theme/images/pink_icons.png?1610560291
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\files\theme\images\pink_icons.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/css/sites.css?buildTime=1610564427
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\css\sites-1.css
+Content Type: text/css
+
+Uri: http://cdn2.editmysite.com/js/site/main.js?buildTime=1610564427
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\js\site\main-1.js
+Content Type: application/x-javascript
+
+Uri: http://cdn2.editmysite.com/js/lang/en/stl.js?buildTime=1610564427&
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\js\lang\en\stl-1.js
+Content Type: application/x-javascript
+
+Uri: http://taylorpatt3366.weebly.com/uploads/1/3/4/1/134172875/screenshot-2020-10-12-09-51-31-2_orig.png
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\uploads\1\3\4\1\134172875\screenshot-2020-10-12-09-51-31-2_orig.png
+Content Type: image/png
+
+Uri: http://taylorpatt3366.weebly.com/uploads/1/3/4/1/134172875/published/screenshot-2020-10-12-09-48-53.png?1602513053
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\uploads\1\3\4\1\134172875\published\screenshot-2020-10-12-09-48-53.png
+Content Type: image/png
+
+Uri: http://taylorpatt3366.weebly.com/uploads/1/3/4/1/134172875/published/screenshot-2020-10-12-09-51-23-2.png?1602513034
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\uploads\1\3\4\1\134172875\published\screenshot-2020-10-12-09-51-23-2.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/js/site/main-customer-accounts-site.js?buildTime=1610564427
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\js\site\main-customer-accounts-site-1.js
+Content Type: application/x-javascript
+
+Uri: http://cdn2.editmysite.com/css/old/mediaelementplayer.css?buildTime=1610564427
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\css\old\mediaelementplayer.css
+Content Type: text/css
+
+Uri: http://taylorpatt3366.weebly.com/uploads/1/3/4/1/134172875/published/706418619.jpg?1602166034
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\uploads\1\3\4\1\134172875\published\706418619.jpg
+Content Type: image/jpeg
+
+Uri: http://taylorpatt3366.weebly.com/uploads/1/3/4/1/134172875/patterson-t-billybob.mp3
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\uploads\1\3\4\1\134172875\patterson-t-billybob.mp3
+Content Type: audio/mpeg
+
+Uri: http://taylorpatt3366.weebly.com/uploads/1/3/4/1/134172875/225262079.jpg
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\uploads\1\3\4\1\134172875\225262079.jpg
+Content Type: image/jpeg
+
+Uri: http://taylorpatt3366.weebly.com/uploads/1/3/4/1/134172875/taylorpattersonmonstertrucks.mp3
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\uploads\1\3\4\1\134172875\taylorpattersonmonstertrucks.mp3
+Content Type: audio/mpeg
+
+Uri: http://taylorpatt3366.weebly.com/uploads/1/3/4/1/134172875/published/microphone-radio-broadcasting-podcast-voice-260nw-1278798262.webp?1602165713
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\uploads\1\3\4\1\134172875\published\microphone-radio-broadcasting-podcast-voice-260nw-1278798262.webp
+Content Type: image/webp
+
+Uri: http://taylorpatt3366.weebly.com/uploads/1/3/4/1/134172875/taylorpatersoncommerical.mp3
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\uploads\1\3\4\1\134172875\taylorpatersoncommerical.mp3
+Content Type: audio/mpeg
+
+Uri: http://taylorpatt3366.weebly.com/uploads/1/3/4/1/134172875/download_orig.png
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\uploads\1\3\4\1\134172875\download_orig.png
+Content Type: image/png
+
+Uri: http://taylorpatt3366.weebly.com/uploads/1/3/4/1/134172875/taylorpattersonschoolevent.mp3
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\uploads\1\3\4\1\134172875\taylorpattersonschoolevent.mp3
+Content Type: audio/mpeg
+
+Uri: http://taylorpatt3366.weebly.com/uploads/1/3/4/1/134172875/published/126-1268258-transparent-kansas-clipart-haunted-house-silhouette-png.png?1602166330
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\uploads\1\3\4\1\134172875\published\126-1268258-transparent-kansas-clipart-haunted-house-silhouette-png.png
+Content Type: image/png
+
+Uri: http://taylorpatt3366.weebly.com/uploads/1/3/4/1/134172875/taylorpattersonmadworldcommerical.mp3
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\uploads\1\3\4\1\134172875\taylorpattersonmadworldcommerical.mp3
+Content Type: audio/mpeg
+
+Uri: http://taylorpatt3366.weebly.com/uploads/1/3/4/1/134172875/published/download-1.png?1602166450
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\uploads\1\3\4\1\134172875\published\download-1.png
+Content Type: image/png
+
+Uri: http://taylorpatt3366.weebly.com/uploads/1/3/4/1/134172875/taylor_pattersonibelieve.mp3
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\uploads\1\3\4\1\134172875\taylor_pattersonibelieve.mp3
+Content Type: audio/mpeg
+
+Uri: http://cdn2.editmysite.com/css/old/slideshow/slideshow.css?1610564427
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\css\old\slideshow\slideshow.css
+Content Type: text/css
+
+Uri: http://cdn2.editmysite.com/js/old/slideshow-jq.js?buildTime=1610564427
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\js\old\slideshow-jq.js
+Content Type: application/x-javascript
+
+Uri: http://taylorpatt3366.weebly.com/uploads/1/3/4/1/134172875/taylor-patterson-shot-styles_orig.png
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\uploads\1\3\4\1\134172875\taylor-patterson-shot-styles_orig.png
+Content Type: image/png
+
+Uri: http://www.weebly.com/uploads/b/134172875-292425229880797862/5_shot_sequence_225.jpg
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\uploads\b\134172875-292425229880797862\5_shot_sequence_225.jpg
+Content Type: image/jpeg
+
+Uri: http://cdn2.editmysite.com/images/util/videojs/play-icon.png?1610564427
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\images\util\videojs\play-icon-1.png
+Content Type: image/png
+
+Uri: http://cdn2.editmysite.com/images/util/videojs/@2x/play-icon.png?1610564427
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\images\util\videojs\@2x\play-icon-1.png
+Content Type: image/png
+
+Uri: http://www.weebly.com/uploads/b/134172875-292425229880797862/group_psa_692.jpg
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\uploads\b\134172875-292425229880797862\group_psa_692.jpg
+Content Type: image/jpeg
+
+Uri: http://www.weebly.com/uploads/b/134172875-292425229880797862/personality_project_377.jpg
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\uploads\b\134172875-292425229880797862\personality_project_377.jpg
+Content Type: image/jpeg
+
+Uri: https://squareup.com/signup?v=weebly-sso&weebly_sso_enabled=true&app=weebly&return_to=https://www.weebly.com/app/front-door/login/square?sso_intent=signup
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\signup.html
+Content Type: text/html
+
+Uri: https://squareup.com/signup?app=weebly&country_code=us&return_to=https:%2F%2Fwww.weebly.com%2Fapp%2Ffront-door%2Flogin%2Fsquare%3Fsso_intent%3Dsignup&v=weebly-sso&weebly_sso_enabled=true
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\signup-1.html
+Content Type: text/html
+
+Uri: https://www.flickr.com/photos/77742560@N06/7782121758
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\photos\77742560@N06\7782121758.html
+Content Type: text/html
+
+Uri: https://www.flickr.com/photos/33143245@N02/43210642870
+File Name: c:\Downloaded Web Sites\taylorpatt3366.weebly.com\photos\33143245@N02\43210642870.html
+Content Type: text/html
+
